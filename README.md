@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### contact me
-
-- Email: qiaicn@gmail.com
-- WeChat: cnbattle
-- Telegram: cnbattle
+![](https://img.shields.io/badge/Email-qiaicn@gmail.com-555?labelColor=critical)
+[![](https://img.shields.io/badge/Telegram-cnbattle-555?labelColor=blue)](https://t.me/cnbattle) 
+![](https://img.shields.io/badge/Wechat-cnbattle-555?labelColor=brightgreen)
+[![](https://img.shields.io/badge/Resume-ChickHere-555?labelColor=blue)](https://cba.github.io/resume/) 
