@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Telegram-cnbattle-555?labelColor=blue)](https://t.me/cnbattle) 
 ![](https://img.shields.io/badge/Wechat-cnbattle-555?labelColor=brightgreen)
 [![](https://img.shields.io/badge/Resume-ChickHere-555?labelColor=blue)](https://cba.github.io/resume/) 
+
+
+[![cnbattle's github stats](https://github-readme-stats.vercel.app/api?username=cnbattle)](https://github.com/anuraghazra/github-readme-stats)
