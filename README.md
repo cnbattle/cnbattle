@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Practice is the sole criterion for testing truth.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cnbattle&count_private=true&show_icons=true&bg_color=22272e&text_color=adbac7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cnbattle&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnbattle&bg_color=22272e&text_color=adbac7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnbattle" />
 </a>
