@@ -17,12 +17,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Telegram-cnbattle-555?labelColor=blue)](https://t.me/cnbattle) 
 ![](https://img.shields.io/badge/Wechat-cnbattle-555?labelColor=brightgreen)
 [![](https://img.shields.io/badge/Resume-ChickHere-555?labelColor=blue)](https://cba.github.io/resume/) 
-
-Practice is the sole criterion for testing truth.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cnbattle&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnbattle" />
-</a>
